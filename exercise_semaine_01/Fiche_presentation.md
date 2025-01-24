@@ -1,2 +1,2 @@
 bonjour, mon nom est karim elchoueiri . j'aime beaucoup tout les domaine du multimedia 
-![this_random_guy_by_inxonic_d2c9cgs-fullview](https://github.com/user-attachments/assets/66fd1353-3f3e-4f38-ace0-707ddfbed1a9)
+![Chiot-carlin-noir](https://github.com/user-attachments/assets/8f6dae4d-5a6d-408d-bdf6-ab17ad533b26)
