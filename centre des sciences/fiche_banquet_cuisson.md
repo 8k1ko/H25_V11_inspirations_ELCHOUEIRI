@@ -38,6 +38,7 @@ L'immersion : Le décor et l'expérience rendaient l'exploration plus réaliste 
 Le côté interactif : Pouvoir manipuler la tablette et voir les effets en temps réel rendait l’apprentissage dynamique.
 L'aspect éducatif : J'ai appris beaucoup sur la cuisson des œufs, d'une manière claire et engageante.
 L'intégration des éléments virtuels : L'exposition mélangeait parfaitement science, cuisine et multimédia, ce qui la rendait très originale.
+![7b9e2bb4-dcc5-4087-846e-a4663398ac8f](https://github.com/user-attachments/assets/75cda190-e5f4-48c7-904d-475acbf4b5af)
 
 
 
