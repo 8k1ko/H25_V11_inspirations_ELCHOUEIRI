@@ -1,4 +1,4 @@
-<title>CON DU8<title/>
+CON DU8
 Créé par Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervais, Kevin Malric et Jérémy Roy Coté, CON DU8 propose un jeu vidéo de course contrôlé par un véritable vélo, encourageant ainsi l'exercice physique par une approche ludique.
 photo_expo_velo2.png
 Installation et Schéma
@@ -16,7 +16,7 @@ Objets interactifs
 
 Lien : CON DU8
 
-<title>Arcadia<title/>
+Arcadia
 Conçu par Dominic Yale, William Beauvais et Anton Nikulin, Arcadia est un jeu d'arcade de type plateforme intégrant des quêtes où le joueur doit retrouver des objets tout en affrontant des ennemis et franchissant divers obstacles.
 jeu_ordinateur3.png
 Installation et Schéma
@@ -34,7 +34,7 @@ Objets interactifs
 
 Lien : Arcadia
 
-<title>Fuga<title/>
+Fuga
 Créé par Abdel Ali Djeral, Daniel Dezemma, Matis Labelle, Tristan Khadka et Yavuz-Selim Gucluer, Fuga permet aux utilisateurs de manipuler un modèle 3D d'un arbre pour le faire grandir et modifier son apparence.
 
 Installation et Schéma
@@ -52,7 +52,7 @@ Objets interactifs
 
 Lien : Fuga
 
-<title>Luminatura<title/>
+Luminatura
 Conçu par Audrey Dandurand, Justine Rousseau, Camilia Bouatmani, Prethiah Rajaratnam et Ihab Mouhajer, Luminatura propose une interaction avec une projection visuelle projetée sur un grand mur.
 expo_arbre3.png
 Installation et Schéma
@@ -70,7 +70,7 @@ Objets interactifs
 
 Lien : Luminatura
 
-<title>Internature<title/>
+Internature
 Créé par Kenza El Harrif, Isaac Fafard, Delphine Grenier, Khaly Tia Sing et Sitmonternna Yi, Internature est une installation immersive intégrant des projections dans une serre cylindrique ouverte.
 
 Installation et Schéma
@@ -88,7 +88,7 @@ Objets interactifs
 
 Lien : Internature
 
-<title>Prismatica<title/>
+Prismatica
 Conçu par Ikrame Rata, Jérémy Duverseau et Vincent Delisle, Prismatica permet aux utilisateurs de générer des sons en dessinant.
 
 Installation et Schéma
