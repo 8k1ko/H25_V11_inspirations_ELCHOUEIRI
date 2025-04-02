@@ -20,7 +20,7 @@ Projecteurs : Plusieurs projecteurs sont utilisés pour afficher le jeu sur la t
 Jetons : Chaque jeton est marqué d'un symbole unique permettant au projecteur de reconnaître sa position et de transmettre ces données au logiciel.
 
 Matériel / Console : Un dispositif central qui gère le jeu et interprète les interactions physiques des joueurs.
-
+expo_table_jeu2.png
 Mon expérience
 L'aspect interactif d'Etheria m'a beaucoup plu, malgré certaines imperfections dues au développement encore en cours. La coopération entre joueurs est bien pensée et l'expérience de jeu est divertissante. Les mécaniques sont simples à comprendre, ce qui rend le jeu accessible et agréable.
 
