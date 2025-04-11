@@ -1,3 +1,4 @@
+# Conference du studio Lozano Hemmer
 Jade Seguela travaille dans un atelier spécial qui crée des œuvres d’art très modernes pour un artiste qui s’appelle Rafael Lozano-Hemmer. Ce monsieur est à la fois Mexicain et Canadien. Avant, il faisait des choses en lien avec la science, mais maintenant, il crée de l’art interactif, c’est-à-dire de l’art avec lequel les gens peuvent jouer ou interagir.
 
 Le 25 mars 2025, Jade a fait une conférence pour expliquer comment son équipe prépare ces œuvres d’art. Elle a dit que c’est beaucoup de travail : il faut chercher des idées, fabriquer les œuvres, bien les garder et ensuite les installer dans des expositions un peu partout dans le monde.
