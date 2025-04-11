@@ -16,6 +16,9 @@ C’est une grande sphère avec 1128 petits haut-parleurs. Chaque haut-parleur j
 
 C’est une autre œuvre qui montre une carte du monde projetée sur une sphère (comme un globe). Quand quelqu’un passe devant, son ombre cache une partie du monde, et alors, un son de radio venant de ce pays se met à jouer. Cette œuvre a été installée sur une petite île artificielle à Abu Dhabi. C’était compliqué de la construire là-bas parce qu’il n’y avait qu’un seul bateau pour amener les travailleurs, et il fallait aussi faire attention à la pluie ou aux animaux.
 
+
+![sphere_packing_bach_rafael_lonazo-hemmer](https://github.com/user-attachments/assets/d1a5fca6-da3e-4fc0-b9cc-d118a5fd483b)
+
 # Conclusion
 
 L’atelier de Rafael Lozano-Hemmer crée des œuvres d’art interactives qu’on peut voir dans le monde entier. Ces œuvres sont très impressionnantes, mais elles demandent beaucoup d’organisation et de travail, comme l’a bien expliqué Jade dans sa conférence.
