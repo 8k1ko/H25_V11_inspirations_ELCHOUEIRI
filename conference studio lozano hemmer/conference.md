@@ -7,8 +7,9 @@ Elle a parlé de deux œuvres en particulier :
 
 # 1. Sphere Packing: Bach
 
-C’est une grande sphère avec 1128 petits haut-parleurs. Chaque haut-parleur joue une chanson différente du compositeur Bach. Quand tu es à l’intérieur, tu entends plein de musiques en même temps, ce qui fait une expérience vraiment spéciale. Jade a expliqué que le plus dur, c’était de brancher tous les fils pour que chaque haut-parleur fonctionne.
-![shadow_tuner_rafael_lonazo-hemmer](https://github.com/user-attachments/assets/a733c6d8-efe2-401c-a762-0d2950ded2e2)
+C’est une grande sphère avec 1128 petits haut-parleurs. Chaque haut-parleur joue une chanson différente du compositeur Bach. Quand tu es à l’intérieur, tu entends plein de musiques en même temps, ce qui fait une expérience vraiment spéciale. Jade a expliqué que le plus dur, c’était de brancher tous les fils pour que chaque haut-parleur fonctionne.![shadow_tuner_rafael_lonazo-hemmer](https://github.com/user-attachments/assets/a733c6d8-efe2-401c-a762-0d2950ded2e2)
+
+
 # 2. Shadow Tuner
 
 C’est une autre œuvre qui montre une carte du monde projetée sur une sphère (comme un globe). Quand quelqu’un passe devant, son ombre cache une partie du monde, et alors, un son de radio venant de ce pays se met à jouer. Cette œuvre a été installée sur une petite île artificielle à Abu Dhabi. C’était compliqué de la construire là-bas parce qu’il n’y avait qu’un seul bateau pour amener les travailleurs, et il fallait aussi faire attention à la pluie ou aux animaux.
