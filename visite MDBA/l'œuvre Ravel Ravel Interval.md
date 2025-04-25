@@ -20,6 +20,9 @@ L'endroit est sombre, et tout ce qu'on voit, ce sont les deux vidéos qui jouent
 Pour faire tout ça, l’artiste a utilisé deux projecteurs et un système de son très spécial. Chaque pianiste est filmé séparément, et les images sont projetées sur deux écrans différents.
 Le son est "spatialisé", ça veut dire qu’on a l’impression qu’il bouge autour de nous. Le tout est fait exprès pour qu'on remarque les petits écarts dans le rythme, comme si le temps était élastique.
 
+![Capture de l'eouvre ravel ravel](https://github.com/user-attachments/assets/b9ec1a3b-246a-461d-a861-800115713acc)
+
+
 # Ce que j’en ai pensé
 Franchement, j’ai trouvé que l’exposition était belle, mais un peu longue. Au bout d’un moment, ça devenait répétitif et ça demandait beaucoup de concentration.
 Mais en même temps, je trouvais ça fascinant d’écouter comment les deux musiques, même presque pareilles, pouvaient sonner si différentes juste à cause d’un petit décalage.
