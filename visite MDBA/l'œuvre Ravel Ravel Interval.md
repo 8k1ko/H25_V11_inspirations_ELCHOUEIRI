@@ -6,6 +6,8 @@ La semaine dernière, je suis allé au Musée des beaux-arts de Montréal. C’�
 Dans cette installation, il y a deux grands écrans face à face. Sur chaque écran, on voit un pianiste qui joue la même chanson, un morceau très connu qui s’appelle le Concerto pour la main gauche de Maurice Ravel.
 Mais voilà, les deux pianistes ne jouent pas exactement en même temps. C’est comme s’il y avait un petit décalage entre eux. Du coup, le son fait comme un écho étrange et ça donne l’impression que le temps ralentit ou accélère.
 
+![Ravel Ravel Interval4](https://github.com/user-attachments/assets/17a8883f-298c-4724-a3eb-9fd4f26e302e)
+
 # L’ambiance dans la salle
 Le son est super bien placé dans la salle, on l'entend venir de tous les côtés. C’est un peu comme si la musique te tournait autour !
 L'endroit est sombre, et tout ce qu'on voit, ce sont les deux vidéos qui jouent en même temps. Ça donne une atmosphère mystérieuse et magique, mais aussi un peu étrange parfois.
