@@ -12,6 +12,10 @@ Mais voilà, les deux pianistes ne jouent pas exactement en même temps. C’est
 Le son est super bien placé dans la salle, on l'entend venir de tous les côtés. C’est un peu comme si la musique te tournait autour !
 L'endroit est sombre, et tout ce qu'on voit, ce sont les deux vidéos qui jouent en même temps. Ça donne une atmosphère mystérieuse et magique, mais aussi un peu étrange parfois.
 
+
+![ Ravel Ravel Interval5 (1)](https://github.com/user-attachments/assets/f3d6cc76-4564-438b-ad7a-03b617d0af00)
+
+
 # Comment ça fonctionne ?
 Pour faire tout ça, l’artiste a utilisé deux projecteurs et un système de son très spécial. Chaque pianiste est filmé séparément, et les images sont projetées sur deux écrans différents.
 Le son est "spatialisé", ça veut dire qu’on a l’impression qu’il bouge autour de nous. Le tout est fait exprès pour qu'on remarque les petits écarts dans le rythme, comme si le temps était élastique.
