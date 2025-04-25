@@ -2,6 +2,9 @@
 Découverte de l'œuvre Ravel Ravel Interval
 La semaine dernière, je suis allé au Musée des beaux-arts de Montréal. C’était super impressionnant parce que j’ai découvert une œuvre vraiment spéciale qui s’appelle Ravel Ravel Interval. Elle a été créée par un artiste qui vient de France et d’Albanie, Anri Sala. C’était la toute première fois que son œuvre était montrée au Canada, alors je me sentais chanceux d’être là !
 
+![ Ravel Ravel Interval3 (1)](https://github.com/user-attachments/assets/d0703c7b-4ac0-466d-ad94-900743707696)
+
+
 # Qu’est-ce que c’est exactement ?
 Dans cette installation, il y a deux grands écrans face à face. Sur chaque écran, on voit un pianiste qui joue la même chanson, un morceau très connu qui s’appelle le Concerto pour la main gauche de Maurice Ravel.
 Mais voilà, les deux pianistes ne jouent pas exactement en même temps. C’est comme s’il y avait un petit décalage entre eux. Du coup, le son fait comme un écho étrange et ça donne l’impression que le temps ralentit ou accélère.
