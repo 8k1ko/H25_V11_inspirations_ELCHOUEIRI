@@ -10,11 +10,11 @@ Mais voilà, les deux pianistes ne jouent pas exactement en même temps. C’est
 Le son est super bien placé dans la salle, on l'entend venir de tous les côtés. C’est un peu comme si la musique te tournait autour !
 L'endroit est sombre, et tout ce qu'on voit, ce sont les deux vidéos qui jouent en même temps. Ça donne une atmosphère mystérieuse et magique, mais aussi un peu étrange parfois.
 
-Comment ça fonctionne ?
+# Comment ça fonctionne ?
 Pour faire tout ça, l’artiste a utilisé deux projecteurs et un système de son très spécial. Chaque pianiste est filmé séparément, et les images sont projetées sur deux écrans différents.
 Le son est "spatialisé", ça veut dire qu’on a l’impression qu’il bouge autour de nous. Le tout est fait exprès pour qu'on remarque les petits écarts dans le rythme, comme si le temps était élastique.
 
-Ce que j’en ai pensé
+# Ce que j’en ai pensé
 Franchement, j’ai trouvé que l’exposition était belle, mais un peu longue. Au bout d’un moment, ça devenait répétitif et ça demandait beaucoup de concentration.
 Mais en même temps, je trouvais ça fascinant d’écouter comment les deux musiques, même presque pareilles, pouvaient sonner si différentes juste à cause d’un petit décalage.
 Ça m’a fait penser à comment notre oreille et notre cerveau entendent les choses, et comment on peut percevoir le temps autrement juste avec de la musique.
