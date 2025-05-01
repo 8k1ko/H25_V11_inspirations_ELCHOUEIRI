@@ -4,7 +4,7 @@
 
 ---
 
-### 🎤 INTRODUCTION
+###  INTRODUCTION
 
 - Aujourd’hui, je vous présente un dispositif d’exposition très marquant, situé à l’entrée de « Voix autochtones d’aujourd’hui – Savoir, trauma, résilience », une exposition présentée au musée McCord Stewart.
 - Mon objectif est de vous montrer comment ce **dispositif d’entrée**, composé de murs sombres et d’un écran circulaire, crée une **expérience immersive puissante**, dès les premières secondes de visite.
@@ -16,7 +16,7 @@
 
 ---
 
-### 🧱 DÉVELOPPEMENT
+###  DÉVELOPPEMENT
 
 #### 1. Description du dispositif
 - Espace sombre à l’entrée, transition nette avec l’extérieur
@@ -47,7 +47,7 @@
 
 ---
 
-### ✅ CONCLUSION
+###  CONCLUSION
 
 - En résumé : Ce dispositif agit comme une **introduction sensorielle et émotionnelle**, il incarne le respect, le silence, et l’écoute dès les premières secondes.
 - Pour moi, il illustre parfaitement comment **le design d’entrée peut déjà raconter une histoire**, sans avoir besoin de texte ou de technologie complexe.
