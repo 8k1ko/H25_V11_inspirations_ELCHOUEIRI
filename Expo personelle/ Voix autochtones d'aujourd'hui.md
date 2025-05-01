@@ -7,11 +7,11 @@
 ---
 
 ## 🧠 Description du dispositif
-Le dispositif d’entrée de l’exposition « Voix autochtones d’aujourd’hui » agit comme une **porte symbolique** et immersive vers l’univers des peuples autochtones. Cet espace est composé de **grands murs sombres**, recouverts de textes d’introduction rédigés en blanc, et d’un **écran circulaire suspendu au plafond**, diffusant une boucle vidéo de **visages autochtones** silencieux.
+Le dispositif d’entrée de l’exposition « Voix autochtones d’aujourd’hui » agit comme une **porte symbolique** et immersive vers l’univers des peuples autochtones. Cet espace est composé de **grands murs vert**, recouverts d'un entourage naturelle, et d’un **écran circulaire suspendu au plafond**, diffusant une boucle vidéo de **personne autochtones** qui décrit leurs histoires.
 
-L’écran circulaire attire immédiatement l’œil par sa **forme inhabituelle** et sa position centrale. Il fonctionne comme une **installation contemplative**, où les visages apparaissent les uns après les autres, chacun fixant l’objectif, dans un silence pesant mais chargé de signification. 
+L’écran circulaire attire immédiatement l’œil par son **positionnement** centrale. Il fonctionne comme une **installation contemplative**, où les visages apparaissent les uns après les autres, chacun fixant l’objectif, dans un silence pesant mais chargé de signification. 
 
-Une **ambiance sonore douce** remplit l’espace, composée de sons discrets : souffles, pulsations, peut-être même des sons inspirés de la nature. Il n’y a pas de narration à ce stade, seulement une présence. L’ensemble de la pièce est tamisé, presque obscur, ce qui accentue l’effet de coupure avec le monde extérieur.
+Une **ambiance sonore douce** remplit l’espace, composée de sons discrets : souffles, pulsations, peut-être même des sons inspirés de la nature. L’ensemble de la pièce est tamisé, presque obscur, ce qui accentue l’effet de **coupure avec le monde extérieur**.
 
 ---
 
