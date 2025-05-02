@@ -27,24 +27,27 @@ Je me suis retrouvé·e à **ralentir naturellement** mon pas, à **observer cha
 
 Ce qui m’a marqué, c’est la **pluralité des visages**. Ils étaient jeunes, vieux, hommes, femmes, personnes non genrées. Et tous avaient une chose en commun : **la dignité**. Le fait qu’ils ne parlent pas, mais nous regardent, renverse les rôles : **ce n’est pas à eux de nous expliquer, c’est à nous de regarder et d’écouter**.
 
+![demande d'equiter](https://github.com/user-attachments/assets/7526f021-9b25-4806-b655-f8ad416b989f)
+
 ---
 
 ## 💬 Appréciation critique
 J’ai énormément apprécié ce dispositif. Il réussit, avec très peu d’éléments, à créer un **impact émotionnel et réflexif fort**. Ce n’est ni spectaculaire ni technologique de façon évidente, mais c’est justement dans cette **épure** que réside sa puissance. Il nous place dans un état de **réception** et **d’introspection**, essentiel pour aborder les thématiques profondes de l’exposition.
+![lunette](https://github.com/user-attachments/assets/41196d9c-c9b6-44a9-a46a-636395fb4efe)![lunette dans boite](https://github.com/user-attachments/assets/7fe730df-39f9-4f11-9fdd-947e00f9adc7)
 
 Pour mes propres projets multimédias, je retiens plusieurs éléments :
 - L’importance d’une **entrée conçue comme un sas émotionnel**
 - L’efficacité d’un **rythme lent**, en rupture avec notre quotidien rapide
 - L’idée qu’**une simple présence visuelle peut suffire** à transmettre quelque chose de profond
-
-Un aspect à retravailler : l’**accessibilité**. L’écran suspendu est difficile à observer pour certaines personnes, surtout si l’on est petit ou en fauteuil roulant. Intégrer des éléments à hauteur des yeux pourrait rendre le dispositif plus inclusif.
-
+![feuille](https://github.com/user-attachments/assets/2a6dcfbd-ec59-4296-9936-9775f874097c)
+Un aspect à retravailler :le colume dans les ecouture en forme de telephone son pas trop fort et il est difficile de comprendre ce que la personne dans la video veux exprimer.
 ---
 
 ## 🔄 Liens avec d'autres œuvres ou dispositifs vus
 Le dispositif m’a rappelé certaines expériences vues en classe, notamment **Internature**, où le début de l’expérience est une transition sensorielle. Dans **Internature**, c’est l’environnement sonore et lumineux qui prépare le visiteur.
 
 On peut aussi faire un parallèle avec **l’installation immersive Ravel Ravel Interval** vue au Musée des beaux-arts de Montréal, où deux pianos déphasés créaient une enveloppe sonore. Dans les deux cas, **on ne nous parle pas directement, mais on nous plonge dans une ambiance**.
+![ Ravel Ravel Interval3 (1)](https://github.com/user-attachments/assets/d0703c7b-4ac0-466d-ad94-900743707696)
 
 Cette œuvre m’inspire à créer des projets où **l’introduction est déjà narrative**, même sans narration.
 
