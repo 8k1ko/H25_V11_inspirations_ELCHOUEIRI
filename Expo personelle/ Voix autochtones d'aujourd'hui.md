@@ -1,7 +1,10 @@
 # Voix autochtones d’aujourd’hui – Savoir, trauma, résilience  
 ## Dispositif d’entrée : murs et écran circulaire  
+
 **Lieu de l’exposition** : Musée McCord Stewart  
+
 **Date de visite** : 14/04/2025 
+
 **Nom de l’étudiant** : Elchoueiri Karim 
 
 ---
