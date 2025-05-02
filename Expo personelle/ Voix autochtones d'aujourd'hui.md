@@ -16,6 +16,7 @@ Le dispositif d’entrée de l’exposition « Voix autochtones d’aujourd’
 
 L’écran circulaire attire immédiatement l’œil par son **positionnement** centrale. Il fonctionne comme une **installation contemplative**, où les visages apparaissent les uns après les autres, chacun fixant l’objectif, dans un silence pesant mais chargé de signification. 
 ![Image_converted](https://github.com/user-attachments/assets/f193a3a2-6c33-4456-b8f7-bcde34c6c278)
+![intalation_a_l'entree](https://github.com/user-attachments/assets/71889e7f-1968-40e5-99cd-84e961213146)
 
 Une **ambiance sonore douce** remplit l’espace, composée de sons discrets : souffles, pulsations, peut-être même des sons inspirés de la nature. L’ensemble de la pièce est tamisé, presque obscur, ce qui accentue l’effet de **coupure avec le monde extérieur**.
 
