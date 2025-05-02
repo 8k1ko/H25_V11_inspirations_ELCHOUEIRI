@@ -35,11 +35,8 @@ Ce qui m’a marqué, c’est la **pluralité des visages**. Ils étaient jeunes
 J’ai énormément apprécié ce dispositif. Il réussit, avec très peu d’éléments, à créer un **impact émotionnel et réflexif fort**. Ce n’est ni spectaculaire ni technologique de façon évidente, mais c’est justement dans cette **épure** que réside sa puissance. Il nous place dans un état de **réception** et **d’introspection**, essentiel pour aborder les thématiques profondes de l’exposition.
 ![lunette](https://github.com/user-attachments/assets/41196d9c-c9b6-44a9-a46a-636395fb4efe)![lunette dans boite](https://github.com/user-attachments/assets/7fe730df-39f9-4f11-9fdd-947e00f9adc7)
 
-Pour mes propres projets multimédias, je retiens plusieurs éléments :
-- L’importance d’une **entrée conçue comme un sas émotionnel**
-- L’efficacité d’un **rythme lent**, en rupture avec notre quotidien rapide
-- L’idée qu’**une simple présence visuelle peut suffire** à transmettre quelque chose de profond
 ![feuille](https://github.com/user-attachments/assets/2a6dcfbd-ec59-4296-9936-9775f874097c)
+
 Un aspect à retravailler :le colume dans les ecouture en forme de telephone son pas trop fort et il est difficile de comprendre ce que la personne dans la video veux exprimer.
 ---
 
