@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 Description du dispositif
+##  Description du dispositif
 Le dispositif d’entrée de l’exposition « Voix autochtones d’aujourd’hui » agit comme une **porte symbolique** et immersive vers l’univers des peuples autochtones. Cet espace est composé de **grands murs vert**, recouverts d'un entourage naturelle, et d’un **écran circulaire suspendu au plafond**, diffusant une boucle vidéo de **personne autochtones** qui décrit leurs histoires.
 
 ![entre](https://github.com/user-attachments/assets/94fd57f2-3db6-42fc-bfc5-6d3b0131f6e3)
@@ -24,7 +24,7 @@ Une **ambiance sonore douce** remplit l’espace, composée de sons discrets : s
 
 ---
 
-## 👁️ Expérience vécue
+##  Expérience vécue
 Dès mon arrivée, j’ai été frappé·e par le contraste entre **l’agitation extérieure** du centre-ville et le **calme presque sacré** de ce premier espace. Le ton était donné : ce ne serait pas une exposition "classique", mais plutôt une **invitation à écouter autrement**.
 
 Je me suis retrouvé·e à **ralentir naturellement** mon pas, à **observer chaque visage projeté**. Il n’y avait rien à « faire » concrètement, sinon **regarder**. Et dans cette simplicité, il y avait quelque chose de fort. Le silence, l’absence de mots, la sobriété visuelle me forçaient à m’impliquer autrement, **avec mon attention et mon respect**.
@@ -35,7 +35,7 @@ Ce qui m’a marqué, c’est la **pluralité des visages**. Ils étaient jeunes
 
 ---
 
-## 💬 Appréciation critique
+##  Appréciation critique
 J’ai énormément apprécié ce dispositif. Il réussit, avec très peu d’éléments, à créer un **impact émotionnel et réflexif fort**. Ce n’est ni spectaculaire ni technologique de façon évidente, mais c’est justement dans cette **épure** que réside sa puissance. Il nous place dans un état de **réception** et **d’introspection**, essentiel pour aborder les thématiques profondes de l’exposition.
 ![lunette](https://github.com/user-attachments/assets/41196d9c-c9b6-44a9-a46a-636395fb4efe)![lunette dans boite](https://github.com/user-attachments/assets/7fe730df-39f9-4f11-9fdd-947e00f9adc7)
 
@@ -45,7 +45,7 @@ Un aspect à retravailler :le colume dans les ecouture en forme de telephone s
 
 ---
 
-## 🔄 Liens avec d'autres œuvres ou dispositifs vus
+## Liens avec d'autres œuvres ou dispositifs vus
 Le dispositif m’a rappelé certaines expériences vues en classe, notamment **Internature**, où le début de l’expérience est une transition sensorielle. Dans **Internature**, c’est l’environnement sonore et lumineux qui prépare le visiteur.
 
 On peut aussi faire un parallèle avec **l’installation immersive Ravel Ravel Interval** vue au Musée des beaux-arts de Montréal, où deux pianos déphasés créaient une enveloppe sonore. Dans les deux cas, **on ne nous parle pas directement, mais on nous plonge dans une ambiance**.
