@@ -49,6 +49,7 @@ Un aspect à retravailler :le colume dans les ecouture en forme de telephone s
 Le dispositif m’a rappelé certaines expériences vues en classe, notamment **Internature**, où le début de l’expérience est une transition sensorielle. Dans **Internature**, c’est l’environnement sonore et lumineux qui prépare le visiteur.
 
 On peut aussi faire un parallèle avec **l’installation immersive Ravel Ravel Interval** vue au Musée des beaux-arts de Montréal, où deux pianos déphasés créaient une enveloppe sonore. Dans les deux cas, **on ne nous parle pas directement, mais on nous plonge dans une ambiance**.
+
 ![ Ravel Ravel Interval3 (1)](https://github.com/user-attachments/assets/d0703c7b-4ac0-466d-ad94-900743707696)
 
 Cette œuvre m’inspire à créer des projets où **l’introduction est déjà narrative**, même sans narration.
