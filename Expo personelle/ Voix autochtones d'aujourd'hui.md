@@ -38,6 +38,7 @@ J’ai énormément apprécié ce dispositif. Il réussit, avec très peu d’é
 ![feuille](https://github.com/user-attachments/assets/2a6dcfbd-ec59-4296-9936-9775f874097c)
 
 Un aspect à retravailler :le colume dans les ecouture en forme de telephone son pas trop fort et il est difficile de comprendre ce que la personne dans la video veux exprimer.
+
 ---
 
 ## 🔄 Liens avec d'autres œuvres ou dispositifs vus
@@ -49,7 +50,6 @@ On peut aussi faire un parallèle avec **l’installation immersive Ravel Ravel 
 Cette œuvre m’inspire à créer des projets où **l’introduction est déjà narrative**, même sans narration.
 
 ---
-
-## 📷 Médias
-👉 *(Insère ici tes images, vidéos ou croquis. Garde leurs noms d’origine comme demandé)*
+Lien au site de l'expo:https://www.musee-mccord-stewart.ca/fr/expositions/voix-autochtones-aujourdhui/
+instagram:https://www.instagram.com/museemccordstewart/
 
